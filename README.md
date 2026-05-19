@@ -35,4 +35,4 @@ trends, top performing channels and customer segments.
 
 ##  Files
 - Vrinda_Store_Analysis.xlsx — Complete dashboard file
-- dashboard ss.png — Dashboard preview
+- Vrinda_Store_Dashboard_preview — Dashboard preview
