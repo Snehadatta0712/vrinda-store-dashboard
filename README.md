@@ -1,14 +1,16 @@
-# Vrinda Store Sales Dashboard
+#  Vrinda Store Annual Sales Dashboard
 
 ##  Overview
 An interactive sales dashboard built in Microsoft Excel
-analyzing annual sales data for Vrinda Store to identify
-trends, top performing channels and customer segments.
+analyzing annual sales data for Vrinda Store (2022) to
+uncover revenue trends, top performing states, customer
+demographics and sales channel performance.
 
 ##  Dataset Details
-- Sales data comprising orders, revenue and customer info
-- Variables include order status, sales channels, 
-  categories, age groups and geographic regions
+- 31,000+ orders analyzed across 12 months
+- Variables include order status, sales channels,
+  product categories, customer age groups,
+  gender and geographic regions across India
 
 ##  Dashboard Features
 - Interactive pivot charts analyzing sales trends
@@ -18,13 +20,16 @@ trends, top performing channels and customer segments.
 - Clean and professional visual theme
 
 ##  Key Business Insights
-- Women customers contributed more to sales than men
-- Maharashtra, Karnataka and Uttar Pradesh were the
-  top 3 performing states
-- Amazon, Flipkart and Myntra were the highest
-  performing sales channels
-- Adult age group (30-49 years) contributed
-  the most to revenue
+- Women customers drove 64% of total revenue
+  (₹13.56L) vs men (₹7.61L)
+- 92% order delivery success rate across all channels
+- Top 3 states by revenue: Maharashtra (₹29.9L),
+  Karnataka (₹26.4L), Uttar Pradesh (₹21L)
+- Amazon led all sales channels at 35.5% of
+  total orders, followed by Myntra (23.4%)
+  and Flipkart (21.6%)
+- Adult women aged 30-49 were the highest
+  contributing customer segment at 34.6%
 
 ##  Tools Used
 - Microsoft Excel 2024
@@ -34,5 +39,5 @@ trends, top performing channels and customer segments.
 - Data Cleaning
 
 ##  Files
-- Vrinda_Store_Analysis.xlsx — Complete dashboard file
-- Vrinda_Store_Dashboard_preview — Dashboard preview
+- Vrinda_Store_Analysis.xlsx — Complete dashboard
+- dashboard ss.png — Dashboard preview
